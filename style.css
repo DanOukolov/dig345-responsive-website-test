@@ -14,5 +14,8 @@ img {
 }
 
 #disappear {
-    
+    position: relative;
+    align-content: center;
+    background-color: #f86868;
+    border-radius: 10px;
 }
